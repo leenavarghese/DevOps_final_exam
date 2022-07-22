@@ -11,7 +11,6 @@ This project includes creating three web pages - [page1.html](page1.html), [page
 ```
 docker build -t q1:1.0 .
 ```
-![image build](./)
 ```
 docker images
 ```
